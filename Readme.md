@@ -9,8 +9,8 @@ This is a sample code to demonstrate the scoring model.
 3. Run pip install requests
 4. Run pip install pandas
 5. Run pip install bs4
-6. pip install scikit-learn
-7. pip install sklearn
-8. pip install tensorflow 
-9. pip install keras 
-8. python3 score.py
+6. Run pip install scikit-learn
+7. Run pip install sklearn
+8. Run pip install tensorflow 
+9. Run pip install keras 
+8. Run python3 score.py
