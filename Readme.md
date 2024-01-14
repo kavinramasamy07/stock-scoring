@@ -1,4 +1,4 @@
-# score-by-stock-data
+# stock-scoring
 
 Python code to score stock symbols based on fundamental analysis, risk analysis, and ESG score. 
 This is a sample code to demonstrate the scoring model. 
